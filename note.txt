@@ -10,3 +10,8 @@ Now our work will continue locally
 2. Commited the change to local repo
 3. We want this change to be reflected in remote repository so we PUSHED local commits to remote repository using Push Origin button
 4. Observe it has been added in your repository under GitHub.com
+
+Pushing multiple changes. 
+Change 1. 
+Change 2. 
+Change 3. 
